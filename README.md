@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/08vabqj94kaethkm?svg=true)](https://ci.appveyor.com/project/BadmaV/for-in)
